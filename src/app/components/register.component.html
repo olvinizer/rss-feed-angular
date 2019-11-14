@@ -1,0 +1,42 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+      <div class="card card-signin my-5">
+        <div class="card-body">
+          <h5 class="card-title text-center">Register New User</h5>
+          <form [formGroup]="registerForm" class="form-signin" (ngSubmit)="onSubmit()">
+            <div class="form-label-group">
+              <label for="email">Email address</label>
+              <input type="email" formControlName="email" class="form-control" placeholder="Email address"
+                     autofocus
+                     [ngClass]="{ 'is-invalid': form.email.errors && (ui.submitted || form.email.errors.isTaken) }">
+              <div *ngIf="form.email.errors" class="invalid-feedback">
+                <ng-container *ngIf="ui.submitted">
+                  <div *ngIf="form.email.errors.required">Email is required</div>
+                  <div *ngIf="form.email.errors.email">Wrong email format</div>
+                </ng-container>
+                <div *ngIf="form.email.errors.isTaken">Email already is taken</div>
+              </div>
+            </div>
+            <br>
+            <div class="form-label-group">
+              <label for="password">Password</label>
+              <input type="password" formControlName="password" class="form-control" placeholder="Password"
+                     [ngClass]="{ 'is-invalid': ui.submitted && form.password.errors }">
+              <div *ngIf="ui.submitted && form.password.errors" class="invalid-feedback">
+                <div *ngIf="form.password.errors.required">Password is required</div>
+                <div *ngIf="form.password.errors.minlength">Wrong password</div>
+              </div>
+            </div>
+            <br>
+            <button [disabled]="ui.processing" class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">
+              <span *ngIf="ui.processing" class="spinner-border spinner-border-sm mr-1"></span>
+              Register
+            </button>
+            <div *ngIf="ui.error" class="alert alert-danger mt-3 mb-0">{{ui.error.message}}</div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

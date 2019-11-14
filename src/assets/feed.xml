@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>tag:theregister.co.uk,2005:feed/theregister.co.uk/software/</id>
+  <title>The Register - Software</title>
+  <link rel="self" type="application/atom+xml" href="https://www.theregister.co.uk/software/headlines.atom"/>
+  <link rel="alternate" type="text/html" href="https://www.theregister.co.uk/software/"/>
+  <rights>Copyright © 2019, Situation Publishing</rights>
+  <author>
+    <name>Team Register</name>
+    <email>webmaster@theregister.co.uk</email>
+    <uri>https://www.theregister.co.uk/odds/about/contact/</uri>
+  </author>
+  <icon>https://www.theregister.co.uk/Design/graphics/icons/favicon.png</icon>
+  <subtitle>Biting the hand that feeds IT — sci/tech news and views for the world</subtitle>
+  <logo>https://www.theregister.co.uk/Design/graphics/Reg_default/The_Register_r.png</logo>
+  <updated>2019-11-13T18:13:21Z</updated>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205720</id>
+    <updated>2019-11-13T10:00:08Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/13/visual_studio_online/"/>
+    <title type="html">Fancy renting your developer environment? Visual Studio goes online</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Or you could try Gitpod...&lt;/h4&gt; &lt;p&gt;Microsoft is offering cloud-hosted developer environments for those using Visual Studio Code or, in private preview, Visual Studio.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205756</id>
+    <updated>2019-11-13T08:01:08Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/13/webassembly_buildup_group/"/>
+    <title type="html">Four go wild for wasm: Corporate quartet come together to build safe WebAssembly sandbox</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Chipzilla, Mozilla, Fastly, and IBM's red-hatted stepchild plot browser-breakout&lt;/h4&gt; &lt;p&gt;On Tuesday Fastly, Intel, Mozilla, and Red Hat teamed up to form the &lt;a target="_blank" rel="nofollow" href="https://bytecodealliance.org/"&gt;Bytecode Alliance&lt;/a&gt;, an industry group intent on making WebAssembly work more consistently and securely outside of web browsers.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205739</id>
+    <updated>2019-11-12T12:07:06Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/12/slow_ring_20h1/"/>
+    <title type="html">Next year's Windows 10 comes bounding into the Slow Ring, which means 19H2 waits in the wings</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Insiders can no longer jump off the testing train&lt;/h4&gt; &lt;p&gt;On the eve of Patch Tuesday, Microsoft began shifting Slow Ring testers onto 2020's Windows 10.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205734</id>
+    <updated>2019-11-12T08:01:11Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/12/google_chrome_summit/"/>
+    <title type="html">Without any apparent irony, Google marks Chrome's 'small' role in web ecosystem</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Chrome Dev Summit also brings resolution of tabs vs. spaces fight, for now&lt;/h4&gt; &lt;p&gt;At the Chrome Developer Summit on Monday, Google finally settled the tabs vs. spaces debate and celebrated web community diversity, now at risk of becoming a monoculture thanks to Chrome's market dominance.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205716</id>
+    <updated>2019-11-11T10:01:11Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/11/microsoft_roundup/"/>
+    <title type="html">What's that, Skippy? A sad-faced Microsoft engineer has arrived with an axe? Skippy?</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Plus: New toys for Teams, a fresh Visual Studio Code, and more&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Roundup&lt;/strong&gt;  Despite it being Ignite week for much of Microsoft, there was still plenty going on in the house that Bill built.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205697</id>
+    <updated>2019-11-08T15:04:06Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/08/ignite_keynote_roundup/"/>
+    <title type="html">Microsoft's phrase of the week was 'tech intensity' and, no, we're not sure what it means either</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;(Tech adoption x tech capability ) ^ trust, anyone?&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Ignite&lt;/strong&gt;  Microsoft CEO Satya Nadella came as close to a &lt;a target="_blank" rel="nofollow" href="https://www.youtube.com/watch?v=1VgVJpVx9bc"&gt;"developers developers developers"&lt;/a&gt; dance as he is ever likely to during this year's Ignite.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205700</id>
+    <updated>2019-11-08T05:00:07Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/08/google_dart_build/"/>
+    <title type="html">Google throws new version of Dart at the desktop, will be hoping it sticks with app devs</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Reformed JavaScript killer now useful on the command line&lt;/h4&gt; &lt;p&gt;Google software engineers have delivered &lt;a target="_blank" rel="nofollow" href="https://dart.dev/"&gt;Dart 2.6&lt;/a&gt;, an update to the open source programming language that provides the ability to create self-contained, native executables for the major desktop operating systems.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205686</id>
+    <updated>2019-11-07T18:00:13Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/07/python_java_github_javascript/"/>
+    <title type="html">Python overtakes Java to become second-most popular language on GitHub after JavaScript</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Data analytics helps to boost contributions by 151%&lt;/h4&gt; &lt;p&gt;GitHub's annual "State of the Octoverse" report shows that Python has overtaken Java as the second-most popular language after JavaScript, based on the primary language of repository contributors.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205681</id>
+    <updated>2019-11-07T15:00:05Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/07/microsoft_react_native/"/>
+    <title type="html">Microsoft looks to React Native as a way to tackle the cross-platform development puzzle</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Windows and Office teams shun Xamarin in favour of JavaScript/C++ solution&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Ignite&lt;/strong&gt;  Microsoft has hinted that cross-platform development framework React Native is a key solution to the problem of writing applications that span both Windows and mobile.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205664</id>
+    <updated>2019-11-06T17:42:05Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/06/google_adds_virtual_desktops_to_chrome_os/"/>
+    <title type="html">Chrome OS: Yo dawg, I heard you like desktops so we put a workspace in your workspace</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;So you can work on something while you work on something&lt;/h4&gt; &lt;p&gt;Google has added virtual desktops to its Chrome OS, used in Chromebooks, enabling users to create multiple workspaces and switch between them.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205663</id>
+    <updated>2019-11-06T15:09:09Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/06/laplink_pcmover_enterprise/"/>
+    <title type="html">What is this, 1989? Laplink is still a thing and wants to help with Windows 7 migrations</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Software survivor celebrates middle age with facelift&lt;/h4&gt; &lt;p&gt;File transfer veteran Laplink has taken advantage of the impending demise of Windows 7 to remind those faced with a migration challenge that it still exists.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205655</id>
+    <updated>2019-11-06T08:09:07Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/06/npm_fund/"/>
+    <title type="html">NPM today stands for Now Pay Me: JavaScript packaging biz debuts conduit for funding open-source coders</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Like a particular module? You're one command away from being able to donate some dosh for it&lt;/h4&gt; &lt;p&gt;NPM Inc, maintainer of the widely used JavaScript package manager npm, has taken a step toward fulfilling a promise made in August to help open-source developers seek compensation for their labor.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205642</id>
+    <updated>2019-11-05T13:26:07Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/05/project_cortex/"/>
+    <title type="html">Hey, corporate types. Microsoft would really love to pick your brains about Project Cortex</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;It's like an automatic knowledgebase creator for enterprise intranet&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Ignite&lt;/strong&gt;  Having unleashed Teams on the world, Microsoft has been pondering what else it can do with all the data lurking in Microsoft 365. The answer, it seems, is &lt;a target="_blank" rel="nofollow" href="https://techcommunity.microsoft.com/t5/Microsoft-365-Blog/Introducing-Project-Cortex/ba-p/966091"&gt;Project Cortex&lt;/a&gt;.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205636</id>
+    <updated>2019-11-05T08:02:05Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/05/apple_app_store_electron/"/>
+    <title type="html">Bad news, developers: Apple Mac App Store tells cross-platform Electron apps to get lost</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Programmers who reoffend risk permanent exile from the fondleslab empire&lt;/h4&gt; &lt;p&gt;Developers of apps built with the cross-platform Electron framework say that Apple has started rejecting their applications during its Mac App Store review process, and has threatened cancellation of Apple Developer Accounts for repeated rules violations.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205619</id>
+    <updated>2019-11-04T15:05:07Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/04/microsoft_revamps_mobile_office_as_single_application/"/>
+    <title type="html">PowerPoint! Word! Excel! Lens! By your powers combined, I am Captain Mobile Office</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Microsoft revamps suite as single application&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Ignite&lt;/strong&gt;  Microsoft has released a public preview of a new Office for mobile devices, combining Excel, Word and PowerPoint into a single application and adding new features for quick actions such as converting images to text or creating and signing PDFs.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205620</id>
+    <updated>2019-11-04T14:04:11Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/04/new_edge_release_candidate/"/>
+    <title type="html">Pencil 15 Jan 2020 in your diary: That's when Microsoft hopes you'll be at the cutting Edge... Chromium style</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Day after termination of Windows 7 support. Plus: First Release Candidate arrives&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Ignite&lt;/strong&gt;  Less than a year after it emerged that &lt;a target="_blank" href="https://www.theregister.co.uk/2018/12/06/microsoft_edge_chromium/"&gt;EdgeHTML was for the chop&lt;/a&gt;, Microsoft has delivered a Release Candidate of its shiny new Chromium-based browser.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205618</id>
+    <updated>2019-11-04T10:15:07Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/11/04/microsoft_roundup/"/>
+    <title type="html">Revealed: The new icon you'll click to download an alternative browser, and more from Microsoft</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Plus: Your Phone makes do without Bluetooth, Azure Sphere release date&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Roundup&lt;/strong&gt;  As Microsoft's Ignite shindig loomed, the gnomes of Redmond took a break from crafting PowerPoints to emit Windows builds and a new icon for Edge.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205581</id>
+    <updated>2019-10-31T15:15:11Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/31/vivaldi_2_9_aims_to_curb_web_annoyances/"/>
+    <title type="html">Ask, Allow or Block is like Vivaldi browser's version of Snog Marry Avoid for popups in 2.9</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;New global site permissions but rivals still ahead on privacy&lt;/h4&gt; &lt;p&gt;Version 2.9 of Chromium-based web browser Vivaldi boasts a new central control of website permissions.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205578</id>
+    <updated>2019-10-31T12:22:09Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/31/microsoft_joins_java_openjdk/"/>
+    <title type="html">'No more room for wars in the new world'? Who are you and what have you done with Microsoft?</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Software giant joins OpenJDK for the second time&lt;/h4&gt; &lt;p&gt;Microsoft signed Oracle's contributor agreement "in the past week" and is officially joining OpenJDK, the official open-source implementation of Java, according to a senior product manager at the Redmond-based machine.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205572</id>
+    <updated>2019-10-31T10:43:13Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/31/graphql_or_bust/"/>
+    <title type="html">GraphQL a cut above the REST, say query lang's fans: Airbnb, Knotel, others embrace the tech</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Data-fetching scheme seems to be catching on&lt;/h4&gt; &lt;p&gt;At the &lt;a target="_blank" rel="nofollow" href="https://summit.graphql.com/"&gt;GraphQL Summit&lt;/a&gt; in San Francisco on Wednesday, Matt DeBergalis, co-founder and CTO at data plumbing biz Apollo GraphQL, urged companies to appoint a data graph champion to help ease the implementation of GraphQL, a query language for fetching data.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205577</id>
+    <updated>2019-10-31T01:40:31Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/31/notepad_china_spam/"/>
+    <title type="html">Just take a look at the carnage on Notepad++'s GitHub: 'Free Uyghur' release sparks spam tsunami by pro-Chinese</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;How to make friends and influence people, 2019 Edition&lt;/h4&gt; &lt;p&gt;On Tuesday, Don HO, the developer of Notepad++, a free GPL source code editor and notepad application for Microsoft Windows, released version 7.8.1, prompting a social media firestorm and a distributed denial of service attack.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205569</id>
+    <updated>2019-10-30T21:15:36Z</updated>
+    <author>
+      <name>Shaun Nichols</name>
+      <uri>https://search.theregister.co.uk/?author=Shaun%20Nichols</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/30/macos_catalina_twitter/"/>
+    <title type="html">You'e yping i wong: macOS Catalina stops Twitter desktop app from accepting B, L, M, R, and T in passwords</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Oher sofwae ikey hi y egession in uggy opeaing syse&lt;/h4&gt; &lt;p&gt;Twitter says a bug in macOS 10.15.1 aka Catalina stops users of the social network's desktop Mac app from entering certain letters in account password fields.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205557</id>
+    <updated>2019-10-30T14:46:13Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/30/gitlab_backtracks_on_plan_to_add_usage_telemetry_after_user_protests/"/>
+    <title type="html">GitLab pulls U-turn on plan to crank up usage telemetry after both staff and customers cry foul</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;CEO apologises for ill-considered proposal&lt;/h4&gt; &lt;p&gt;GitLab has swiftly backtracked on plans to add telemetry services to track usage of its products.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205537</id>
+    <updated>2019-10-30T13:02:05Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/30/trello_50m_user_registrations/"/>
+    <title type="html">Trello starts waving AI around as collab outfit hits 50 million registrations</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Just don't ask how many actually use it&lt;/h4&gt; &lt;p&gt;Atlassian-owned list-maker Trello is in celebratory mood as it &lt;a target="_blank" rel="nofollow" href="https://blog.trello.com/50-million-celebration"&gt;trumpets&lt;/a&gt; the 50 millionth user registration as well as the advent of more templates, automation and the dead hand of AI.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205539</id>
+    <updated>2019-10-30T12:27:45Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/30/linux_kernel_is_getting_more_reliable_says_linus_torvalds/"/>
+    <title type="html">Linux kernel is getting more reliable, says Linus Torvalds. Plus: What do you need to do to be him?</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Chief Linux maintainer job is all about reading many, many, many emails, and 'saying no'&lt;/h4&gt; &lt;p&gt;Linux inventor (and chief maintainer) Linus Torvalds says that the kernel is getting more reliable, and he is not anxious about it being used in safety-critical systems.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205547</id>
+    <updated>2019-10-29T17:01:09Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/29/microsoft_cloudy_project_built_on_power_platform/"/>
+    <title type="html">Microsoft welcomes ancient Project app to the 365 family, meaning bleak future for on-prem</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Redmond hauls management software cloudwards&lt;/h4&gt; &lt;p&gt;Microsoft has rolled out the cloud-based version of its venerable project management software, Project, along with a new basic subscription option.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205516</id>
+    <updated>2019-10-28T19:00:12Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/28/selfservice_power_platform_why_microsoft_is_bypassing_office_365_admins/"/>
+    <title type="html">Microsoft explains self-serve Power platform's bypassing of Office 365 admins to cries of 'are you completely insane?'</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;We're unlocking productivity!&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  Microsoft has defended a policy decision for its "Power platform" – part of Office 365 – to let end users bypass Office 365 admins and make their own licence purchases.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205510</id>
+    <updated>2019-10-28T16:02:38Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/28/kernelci_becomes_linux_foundation_project/"/>
+    <title type="html">Annoyed by too many kernel testing projects? Good news. Linux Foundation anoints chosen one – KernelCI</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Stop, collaborate and listen&lt;/h4&gt; &lt;p&gt;"We have six or seven projects which are doing kernel testing, so much so that we're getting really annoyed," kernel maintainer Greg Kroah-Hartman told a crowd today.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205506</id>
+    <updated>2019-10-28T13:13:48Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/28/microsoft_roundup/"/>
+    <title type="html">Engineer grumbles and user gripes do little to slow down Nadella's trillion-dollar Microsoft</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Also: Android integration pays off and recent crack at BASIC turns 11&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Roundup&lt;/strong&gt;  While Microsoft basked in the warmth of &lt;a target="_blank" href="https://www.theregister.co.uk/2019/10/24/microsoft_q1_fy2020/"&gt;soaring digits last week&lt;/a&gt;, former technical evangelist and engineer &lt;a target="_blank" rel="nofollow" href="https://twitter.com/docjamesw/status/1186734705590374401"&gt;James Whittaker&lt;/a&gt; was there &lt;a target="_blank" rel="nofollow" href="https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36"&gt;to tip an icy scorn bucket over&lt;/a&gt; Windows and the culture lurking behind it.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205507</id>
+    <updated>2019-10-28T10:55:06Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/28/netsuite_suiteconnect/"/>
+    <title type="html">Oracle's cloud to net sweet customers as NetSuite sinks ever deeper into the fold</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;CEO Evan Goldberg on Big Red migration and the Suite smell of Success&lt;/h4&gt; &lt;p&gt;Oracle-owned NetSuite has plugged cookie-cutter SuiteSuccess tooling at its London SuiteConnect shindig as customers face up to a migration to Big Red's cloud.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205444</id>
+    <updated>2019-10-28T08:02:10Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/28/who_me/"/>
+    <title type="html">I'm not Boeing anywhere near that: Coder whizz heads off jumbo-sized maintenance snafu</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Disturbing omissions in 747 documentation&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Who, Me?&lt;/strong&gt;  We're back again with &lt;a target="_blank" href="https://www.theregister.co.uk/Tag/who-me"&gt;Who, Me?&lt;/a&gt;, &lt;i&gt;The Register&lt;/i&gt;'s Monday morning crowdsourced tale of reader misdeeds and close calls.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205499</id>
+    <updated>2019-10-25T21:39:27Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/25/chrome_web_store_issues/"/>
+    <title type="html">Google's Chrome Web Store under fire for shoddy service and cryptic policies</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Developers! Developers! Developers! Oh, wait, that's a different company&lt;/h4&gt; &lt;p&gt;Google is still working on a much-needed and overdue revision to its Chrome Extensions platform known as Manifest v3, but extension developers complain that the ad-slinger doesn't do enough to support them.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205489</id>
+    <updated>2019-10-25T19:00:09Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/25/typescript_3_7/"/>
+    <title type="html">Optional (un)chained melodies for those who like their TypeScript to be more assertive in 3.7</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Release Candidate drops just in time for Microsoft's Ignite&lt;/h4&gt; &lt;p&gt;As its Florida Ignite shindig looms large, Microsoft has settled on a &lt;a target="_blank" rel="nofollow" href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-7-rc/"&gt;Release Candidate for TypeScript 3.7&lt;/a&gt; ahead of an imminent launch.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205487</id>
+    <updated>2019-10-25T17:00:13Z</updated>
+    <author>
+      <name>Gareth Corfield</name>
+      <uri>https://search.theregister.co.uk/?author=Gareth%20Corfield</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/25/airbus_a220_engine_problems_software/"/>
+    <title type="html">Aviation's been Boeing through a rough patch: Software tweaks blamed for Airbus A220 failures</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Engine maker Pratt &amp;amp; Whitney says it's working on a fix&lt;/h4&gt; &lt;p&gt;Software alterations have been fingered as the cause of Airbus A220 airliner problems that led to at least three emergency landings after excessive vibration caused engines to fail, according to reports.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205486</id>
+    <updated>2019-10-25T15:30:11Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/25/australian_border_force_internet_explorer_woes/"/>
+    <title type="html">Windows 10 update slips past Aussie border force and borks access to its Integrated Cargo System</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;It's 2019 and government sites still require Internet Explorer&lt;/h4&gt; &lt;p&gt;Companies using the Australian Border Force's (ABF) Integrated Cargo System (ICS) are having problems connecting to the portal using Internet Explorer.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205443</id>
+    <updated>2019-10-25T08:06:05Z</updated>
+    <author>
+      <name>Matthew Hughes</name>
+      <uri>https://search.theregister.co.uk/?author=Matthew%20Hughes</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/25/robowunderkind/"/>
+    <title type="html">Daaa-aaad. She took my coding robot. No, I had it first</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Another piece of kit for youngsters to tussle over in the form of Robo Wunderkind&lt;/h4&gt; &lt;p&gt;As the global focus on computing curricula intensifies and parents continue to push their kids towards STEM subjects in the hopes that leads to better opportunities later on in life, the proliferation of "coding kits" aimed at kids is keeping pace.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205475</id>
+    <updated>2019-10-24T23:54:09Z</updated>
+    <author>
+      <name>Katyanna Quach</name>
+      <uri>https://search.theregister.co.uk/?author=Katyanna%20Quach</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/24/att_voicemail_outage/"/>
+    <title type="html">Mysterious botched code upgrade breaks voicemail for unlucky AT&amp;amp;T punters for weeks</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Device, server... something with electricity in it, possibly, blamed by US cellular giant&lt;/h4&gt; &lt;p&gt;Some AT&amp;amp;T customers are locked out of their voicemails due to a buggy software upgrade.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205460</id>
+    <updated>2019-10-24T19:00:12Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/24/tails_4_privacy_linux/"/>
+    <title type="html">Heads up, private penguins: Tails 4.0 is out. Security-conscious Linux gets updated apps, speed boost</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;'More changes than any version since years' in Tor-touting OS&lt;/h4&gt; &lt;p&gt;Tails has released version 4.0 of the privacy-focused Linux distro, based on Debian 10, with numerous feature and usability improvements.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205463</id>
+    <updated>2019-10-24T18:01:00Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/24/windows_terminal_1910/"/>
+    <title type="html">Windows Terminal 1910 preview is quite literally a more rounded affair</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Who are you and what have you done with Microsoft?&lt;/h4&gt; &lt;p&gt;As well as a &lt;a target="_blank" href="https://www.theregister.co.uk/2019/10/24/powershell_7_preview_5/"&gt;fresh PowerShell peek&lt;/a&gt;, Microsoft sent an &lt;a target="_blank" rel="nofollow" href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1910-release/"&gt;update&lt;/a&gt; of its Windows Terminal out into the world last night.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205456</id>
+    <updated>2019-10-24T11:56:26Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/24/powershell_7_preview_5/"/>
+    <title type="html">Microsoft emits another peep at PowerShell 7 with new toys and the return of an old friend</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Commands in (conditional) Chains – the latest Seattle rock sensation?&lt;/h4&gt; &lt;p&gt;Preview 5 of Microsoft's PowerShell 7 dropped last night, which means that final release is lumbering ever closer.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205437</id>
+    <updated>2019-10-23T17:00:10Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/23/libreoffice_latest_victim_of_curse_of_catalina/"/>
+    <title type="html">Not LibreOffice too? Beloved open-source suite latest to fall victim to the curse of Catalina</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Move to bin? Or cancel? There are more options on this version of macOS, but it's still a PITA&lt;/h4&gt; &lt;p&gt;Users who download and attempt to run LibreOffice on the new macOS Catalina are presented with two options – "Move to bin" or "Cancel".…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205431</id>
+    <updated>2019-10-23T14:51:57Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/23/amazon_web_services_has_joined_the_java_community_process/"/>
+    <title type="html">Put on your tech specs: Amazon Web Services has joined the Java Community Process</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Latest Java-friendly move after Amazon's Corretto OpenJDK distro&lt;/h4&gt; &lt;p&gt;Amazon has made another effort to be a good Java citizen by joining brewmasters at the Java Community Process (JCP), the group which develops specifications for the Java platform.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205433</id>
+    <updated>2019-10-23T12:53:06Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/23/windows_10_updates/"/>
+    <title type="html">Nothing's certain except death and patches – so that 'final' Windows 10 19H2 build isn't really</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Situation normal, says Microsoft as it runs rings round Insiders&lt;/h4&gt; &lt;p&gt;Having declared 18363.418 the &lt;a target="_blank" href="https://www.theregister.co.uk/2019/10/14/windows_10_november_2019_update/"&gt;final build&lt;/a&gt; for the Windows 10 November 2019 Update, the Windows Insider team has surprised no one at all by issuing patches ahead of release.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205419</id>
+    <updated>2019-10-22T20:15:34Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/22/gnome_linux_lausuit/"/>
+    <title type="html">Hell hath GNOME fury: Linux desktop org swings ax at patent troll's infringement claim</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Rather than settle and make pain just go away, project wants to send a message instead&lt;/h4&gt; &lt;p&gt;After being hit with a patent-infringement lawsuit last month, the GNOME Foundation has fired back with a counterclaim – and urged the courts to dismiss the case.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205403</id>
+    <updated>2019-10-22T10:31:37Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/22/microsoft_self_service_office_365/"/>
+    <title type="html">Power to the users? Admins be warned: Microsoft set to introduce 'self-service purchase' in Office 365</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Users will be able to buy own licences and administrators cannot prevent it&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  Microsoft will allow "self-service purchase and license management capabilities" for Office 365 users, initially for its Power Platform low-code services, PowerApps, PowerBI and Flow.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205381</id>
+    <updated>2019-10-21T20:32:09Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/21/quick_fire_windows_10_fast_ring_release_end_a_busy_week_at_microsoft/"/>
+    <title type="html">New Teams goodies: Shared calendars? No. Private channels? No. Hold please ♩ ♪ ♫ ♪ ♫</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Quickfire Windows 10 Fast Ring release ends a busy week at Microsoft&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Roundup&lt;/strong&gt;  It was a busy week in Redmond as Microsoft geared up for its November Ignite shindig – new Windows 10 builds were flung, Azure capacities increased and Teams got a fresh feature... hold music.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205371</id>
+    <updated>2019-10-21T11:03:14Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/21/traffic_lights_changed/"/>
+    <title type="html">Traffic lights worldwide set to change after Swedish engineer saw red over getting a ticket</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Mats Järlström's fight shows you never cross an engineer&lt;/h4&gt; &lt;p&gt;A Swedish engineer's umbrage at a traffic ticket has led to a six-year legal fight and now a global change in the speed with which traffic light signals are timed.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205361</id>
+    <updated>2019-10-18T14:46:09Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.co.uk/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/18/vs_code_mssql/"/>
+    <title type="html">Like Visual Studio Code and your data lives in SQL Server? Microsoft has something for you</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;SQL Object Explorer, SQLCMD and more IntelliCode arrive for VS Code&lt;/h4&gt; &lt;p&gt;Microsoft's determination to foist on the world ever more ways of connecting to SQL Server has continued unabated with a major update of the mssql extension for the ubiquitous Visual Studio Code.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205323</id>
+    <updated>2019-10-17T11:23:04Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.co.uk/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/17/canonical_releases_ubuntu_1910_eoan_ermine/"/>
+    <title type="html">This fall, Ubuntu 19.10 stars as Eoan Ermine in... Dawn of the Stoats</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;Out today: Experimental ZFS on root, diminished compatibility with 32-bit applications&lt;/h4&gt; &lt;p&gt;Canonical has released Ubuntu 19.10, codenamed Eoan Ermine for some reason.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.co.uk,2005:story205327</id>
+    <updated>2019-10-17T06:04:13Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.co.uk/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.co.uk/feed/www.theregister.co.uk/2019/10/17/microsoft_cloud_app/"/>
+    <title type="html">OAMigod! Microsoft has a cloud app spec for you – and hopes Rudr can't fail</title>
+    <summary type="html" xml:base="https://www.theregister.co.uk/">&lt;h4&gt;The Open Application Model isn't a standard, but it could be&lt;/h4&gt; &lt;p&gt;On Wednesday, Microsoft and Alibaba Cloud revealed "an open standard for developing and operating applications on Kubernetes and other platforms," that isn't yet a standard and looks rather redundant in light of similar projects.…&lt;/p&gt;</summary>
+  </entry>
+</feed>
