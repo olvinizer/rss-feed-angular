@@ -30,17 +30,17 @@ Folders structure
       * login - login page
       * register - registration page with email existance check
       * pagination - pagination helper
-		* /app/helpers - additonal services
-			* auth-guard - authorization helper, checks if user is logged in and redirects if necessary
-			* backend - backend server mockup
-			* common50 - common english words from Wiki
-		* /app/models - data modela and its logic
-			* atom-entry - represents feed entry model
-			* atom-feed - represents feed model and contains feed parsing logic
-			* top-word - represetns top word
-		* /app/services - services to interact with backend
-			* authentification - login and logout user
-			* local-storage - facade to work with Local Storage
-			* users - users data 
-		* /assets - contains feed XML for backend mockup
+    * /app/helpers - additonal services
+		* auth-guard - authorization helper, checks if user is logged in and redirects if necessary
+		* backend - backend server mockup
+		* common50 - common english words from Wiki
+    * /app/models - data modela and its logic
+		* atom-entry - represents feed entry model
+		* atom-feed - represents feed model and contains feed parsing logic
+		* top-word - represetns top word
+    * /app/services - services to interact with backend
+		* authentification - login and logout user
+		* local-storage - facade to work with Local Storage
+		* users - users data 
+    * /assets - contains feed XML for backend mockup
 	
